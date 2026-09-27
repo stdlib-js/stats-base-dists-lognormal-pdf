@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-09-27)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5b8d729`](https://github.com/stdlib-js/stdlib/commit/5b8d7294b7ea3a484b4e6b138bae89dd7cb1877c) - **test:** tighten fixture tolerances in `stats/base/dists/lognormal/pdf` [(#15577)](https://github.com/stdlib-js/stdlib/pull/15577) _(by Karan Anand)_
 -   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
 -   [`32b7f5e`](https://github.com/stdlib-js/stdlib/commit/32b7f5e8b90aff7eed891cd8e8227b35f649c0fc) - **test:** migrate `stats/base/dists/lognormal/pdf` to ULP-based assertions [(#14272)](https://github.com/stdlib-js/stdlib/pull/14272) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -40,9 +41,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
